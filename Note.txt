@@ -1,0 +1,4 @@
+Hello, Praveen Kumar is good boy
+Hi also chandan is good boy
+
+http://zetcode.com/lang/python/oop/

@@ -1,0 +1,50 @@
+		Notes For Python
+
+Simple Open Pycharm and create a new file in it.
+Keep in mind file name should not match any module name.
+After creating a new file simple type print(“Hello World”)
+And then run your program.
+You will get the output as “Hello World”.
+
+#Please dont remove this line
+"""
+This is a
+Multiline Comment
+"""
+"""
+This is a comment
+"""
+# print("Subscribe CodeWithHarry now","Bhai video bhi like kar dena")
+# print("next line")
+# print("C:\'narry")
+print("Harry is \n good boy \t1") #comment after statement
+
+var1 = "54"
+var4 = "32"
+var2 = 4
+var3 = 36.7
+# print(100 * str(int(var1) + int(var4)) )
+# print(100 * "Hello world\n")
+# print("Enter your number")
+# inpnum = input()
+#
+# print("You entered", int(inpnum)+10)
+"""
+str()
+int()
+float()
+"""
+
+"""
+Quiz - Solved in the video
+Exercise - Next video
+Project - Some awesome python utility
+"""
+# print(type(var1))
+
+print("Enter first number")
+n1 = input()
+print("Enter second number")
+n2 = input()
+print("Sum of these two numbers is", int(n1) + int(n2))
+

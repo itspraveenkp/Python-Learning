@@ -1,0 +1,25 @@
+# s = set()
+# print(type(s))
+
+# s_from_Set = set([1,2,3,4,5,6])
+# print(s_from_Set)
+# print(type(s_from_Set))
+
+# l =[1,2,3,4,5,6]
+# s_from_Set = set(l)
+# print(s_from_Set)
+# print(type(s_from_Set))
+
+# s = set()
+# s.add(1)
+# s.add(1)
+# s.add(2)
+# s1 = s.union({1,2,3})
+# s1 = s.intersection({1,2,3})
+# print(s , s1)
+# print(type(s))
+# print(max(s))
+# print(min(s))
+# s.remove(2)
+# print(s)
+# print(s.isdisjoint(s1))
